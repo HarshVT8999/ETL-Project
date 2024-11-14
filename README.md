@@ -52,4 +52,4 @@ This can be deployed anywhere for end to end etl pipelines to run automatedly. A
 
 ## Author
 
-* **Jedidiah Madjanor**
+* **Harshvardhan Tiwary**
