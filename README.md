@@ -1,7 +1,6 @@
-# End to End ETL PIPELINE
+# ETL PIPELINE (End to End)
 
-This is a python script for building a basic end to end etl pipeline to read data from a source, transform
-this data, then load the output into a prescribed location. The end to end etl pipeline.py file has been documented to aid you walk through this project.
+This Python script sets up a complete ETL (Extract, Transform, Load) pipeline that reads data from a specified source, applies necessary transformations, and then loads the processed output to a designated destination. The end_to_end_etl_pipeline.py file includes detailed documentation to guide you through the entire project.
 
 ## Getting Started
 
